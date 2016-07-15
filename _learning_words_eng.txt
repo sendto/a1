@@ -6263,7 +6263,7 @@ to bite (bit, bitten) - кусать, жалить; причинять боль
 to lessen - уменьшать(ся), убавлять(ся)
 hardships - неприятности, тяготы, лишения
 brink - край /обрыва, пропасти/; берег; грань
---->>
+
 to shiver - трепетать; разбивать(ся) вдребезги
 to humble - смирять, унижать
 measure - мера
@@ -6293,6 +6293,7 @@ utter
 salvation
 tranquility
 leaden
+--->>
 hue
 scruples
 abandon
