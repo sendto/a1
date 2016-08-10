@@ -6328,7 +6328,6 @@ deceived
 deception
 tranquility
 pamphlets
---->>
 enlarged
 advantages
 interrogatories
@@ -6351,6 +6350,7 @@ peculiarities
 ignoramus
 trifle
 riposte
+--->>
 incredulity
 aperture
 contrived
