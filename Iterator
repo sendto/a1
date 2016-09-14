@@ -118,4 +118,4 @@ public class DataStructure {
         ds.print(DataStructure::isOddIndex);
       
     }
-}
+} 
