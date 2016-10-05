@@ -1,8 +1,4 @@
 a1
 ==
 
-test
-test2
-test3
-test4
-test5
+http://docs.oracle.com/javase/tutorial/essential/io/misc.html
