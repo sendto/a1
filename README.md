@@ -12,4 +12,6 @@ http://docs.oracle.com/javase/tutorial/essential/concurrency/interrupt.html
 
 https://www.youtube.com/watch?v=sFT1Y34KYps
 
+Схема для шагового двигателя:
+http://radiokot.ru/circuit/digital/automat/25/
 
