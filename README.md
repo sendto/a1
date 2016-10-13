@@ -11,6 +11,8 @@ http://docs.oracle.com/javase/tutorial/essential/concurrency/atomic.html
 http://docs.oracle.com/javase/tutorial/essential/concurrency/immutable.html
 http://docs.oracle.com/javase/tutorial/essential/concurrency/newlocks.html
 http://docs.oracle.com/javase/tutorial/essential/regex/index.html
+http://docs.oracle.com/javase/tutorial/essential/regex/matcher.html
+Using replaceFirst(String) and replaceAll(String)
 --------
 
 
