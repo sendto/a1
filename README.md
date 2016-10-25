@@ -7,21 +7,7 @@ http://docs.oracle.com/javase/tutorial/index.html
 
 (excercise)http://docs.oracle.com/javase/tutorial/java/javaOO/enum.html
 
-http://docs.oracle.com/javase/tutorial/essential/concurrency/procthread.html
-http://docs.oracle.com/javase/tutorial/essential/concurrency/interrupt.html
-http://docs.oracle.com/javase/tutorial/essential/concurrency/atomic.html
-http://docs.oracle.com/javase/tutorial/essential/concurrency/immutable.html
-http://docs.oracle.com/javase/tutorial/essential/concurrency/newlocks.html
-http://docs.oracle.com/javase/tutorial/essential/regex/index.html
-http://docs.oracle.com/javase/tutorial/essential/regex/matcher.html
-Using replaceFirst(String) and replaceAll(String)
-http://docs.oracle.com/javase/tutorial/essential/regex/unicode.html
-http://docs.oracle.com/javase/tutorial/collections/interfaces/collection.html
-http://docs.oracle.com/javase/tutorial/collections/interfaces/order.html
-http://docs.oracle.com/javase/tutorial/collections/streams/index.html
-http://docs.oracle.com/javase/tutorial/collections/implementations/map.html
-http://docs.oracle.com/javase/tutorial/datetime/iso/nonIso.html
-http://docs.oracle.com/javase/tutorial/deployment/applet/lifeCycle.html
+http://docs.oracle.com/javase/tutorial/deployment/applet/appletStatus.html
 --------
 
 
