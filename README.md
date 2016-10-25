@@ -8,6 +8,7 @@ http://docs.oracle.com/javase/tutorial/index.html
 (excercise)http://docs.oracle.com/javase/tutorial/java/javaOO/enum.html
 
 http://docs.oracle.com/javase/tutorial/deployment/applet/appletStatus.html
+http://docs.oracle.com/javase/tutorial/deployment/applet/server.html
 --------
 
 
