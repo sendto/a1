@@ -12,6 +12,7 @@ http://docs.oracle.com/javase/tutorial/deployment/applet/server.html
 http://docs.oracle.com/javase/tutorial/deployment/applet/security.html
 http://docs.oracle.com/javase/tutorial/deployment/webstart/deploying.html
 http://docs.oracle.com/javase/tutorial/deployment/webstart/running.html
+http://docs.oracle.com/javase/tutorial/deployment/doingMoreWithRIA/cookies.html
 --------
 
 
