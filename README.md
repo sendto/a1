@@ -15,6 +15,7 @@ http://docs.oracle.com/javase/tutorial/deployment/webstart/running.html
 http://docs.oracle.com/javase/tutorial/deployment/doingMoreWithRIA/cookies.html
 http://docs.oracle.com/javase/tutorial/deployment/doingMoreWithRIA/security.html
 http://docs.oracle.com/javase/tutorial/deployment/deploymentInDepth/deployingWithoutCodebase.html
+http://docs.oracle.com/javase/tutorial/deployment/selfContainedApps/prereqs.html
 --------
 
 
