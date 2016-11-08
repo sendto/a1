@@ -23,6 +23,7 @@ http://docs.oracle.com/javase/tutorial/jdbc/basics/sqldatasources.html
 http://docs.oracle.com/javase/tutorial/jdbc/basics/tables.html
 http://docs.oracle.com/javase/tutorial/jdbc/basics/transactions.html
 http://docs.oracle.com/javase/tutorial/jdbc/basics/joinrowset.html
+http://docs.oracle.com/javase/tutorial/jdbc/basics/webrowset.html
 --------
 
 
