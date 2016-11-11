@@ -28,6 +28,10 @@ http://docs.oracle.com/javase/tutorial/jdbc/basics/sqlxml.html
 Using User-Defined Types as Column Values
 http://docs.oracle.com/javase/tutorial/jdbc/basics/sqlstructured.html
 http://docs.oracle.com/javase/tutorial/jdbc/basics/jdbcswing.html
+
+
+http://docs.oracle.com/javase/8/javafx/get-started-tutorial/jfx-overview.htm#JFXST784
+http://docs.oracle.com/javase/tutorial/uiswing/start/about.html
 --------
 
 
