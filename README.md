@@ -35,6 +35,8 @@ http://docs.oracle.com/javase/tutorial/uiswing/start/about.html
 --------
 p2
 http://docs.oracle.com/javase/tutorial/uiswing/components/generaltext.html
+http://docs.oracle.com/javase/tutorial/uiswing/components/combobox.html
+Using an Editable Combo Box
 --------
 
 
