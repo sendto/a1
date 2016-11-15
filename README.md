@@ -34,9 +34,8 @@ http://docs.oracle.com/javase/8/javafx/get-started-tutorial/jfx-overview.htm#JFX
 http://docs.oracle.com/javase/tutorial/uiswing/start/about.html
 --------
 p2
-http://docs.oracle.com/javase/tutorial/uiswing/components/generaltext.html
-http://docs.oracle.com/javase/tutorial/uiswing/components/combobox.html
-Using an Editable Combo Box
+http://docs.oracle.com/javase/tutorial/uiswing/components/editorpane.html
+Editor Panes vs. Text Panes
 --------
 
 
