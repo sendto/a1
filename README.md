@@ -8,7 +8,8 @@ http://docs.oracle.com/javase/8/javafx/get-started-tutorial/jfx-overview.htm#JFX
 http://docs.oracle.com/javase/tutorial/uiswing/start/about.html
 --------
 p2
-http://docs.oracle.com/javase/tutorial/uiswing/misc/action.html
+http://docs.oracle.com/javase/tutorial/uiswing/misc/access.html
+Making Custom Components Accessible
 --------
 
 
