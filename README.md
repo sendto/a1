@@ -8,7 +8,9 @@ http://docs.oracle.com/javase/8/javafx/get-started-tutorial/jfx-overview.htm#JFX
 http://docs.oracle.com/javase/tutorial/uiswing/start/about.html
 --------
 p2
-http://docs.oracle.com/javase/tutorial/uiswing/layout/groupExample.html
+
+http://docs.oracle.com/javase/tutorial/uiswing/lookandfeel/synth.html
+The <bind> Element
 --------
 
 
