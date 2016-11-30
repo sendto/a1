@@ -9,8 +9,7 @@ http://docs.oracle.com/javase/tutorial/uiswing/start/about.html
 --------
 p2
 
-http://docs.oracle.com/javase/tutorial/uiswing/lookandfeel/synth.html
-The <bind> Element
+Concepts: Low-Level Events and Semantic Events
 --------
 
 
