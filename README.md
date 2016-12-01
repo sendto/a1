@@ -9,7 +9,7 @@ http://docs.oracle.com/javase/tutorial/uiswing/start/about.html
 --------
 p2
 
-Concepts: Low-Level Events and Semantic Events
+http://docs.oracle.com/javase/tutorial/uiswing/events/mousemotionlistener.html
 --------
 
 
