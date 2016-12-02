@@ -9,7 +9,7 @@ http://docs.oracle.com/javase/tutorial/uiswing/start/about.html
 --------
 p2
 
-http://docs.oracle.com/javase/tutorial/uiswing/events/mousemotionlistener.html
+http://docs.oracle.com/javase/tutorial/deployment/applet/manipulatingDOMFromApplet.html
 --------
 
 
