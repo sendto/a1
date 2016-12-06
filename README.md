@@ -1,17 +1,6 @@
 a1
 ==
 .
-main menu:
-http://docs.oracle.com/javase/tutorial/index.html
-(excercise)http://docs.oracle.com/javase/tutorial/java/javaOO/enum.html
-http://docs.oracle.com/javase/8/javafx/get-started-tutorial/jfx-overview.htm#JFXST784
-http://docs.oracle.com/javase/tutorial/uiswing/start/about.html
---------
-p2
-
-http://docs.oracle.com/javase/tutorial/deployment/applet/manipulatingDOMFromApplet.html
---------
-
 
 https://www.youtube.com/watch?v=sFT1Y34KYps
 
