@@ -1,0 +1,6 @@
+/opt/dmsuite/logs/AppLogs/dmsuite.log log_dmsuite
+
+cat - выводит все
+tail -n1000  -выводит последние 1000 строк
+tail -f      -подгружает динамически
+more +/A_CRASH dmsuite.log -выводит текст начиная с найденной строки
