@@ -1,3 +1,0 @@
-=MID(F3;1;FIND(",";F3;1)-1)          substr + instr
-
-=FIND("1";F12;1)
