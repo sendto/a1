@@ -1,0 +1,10 @@
+sf = select * from
+SF = select * from
+sfd = select * from dual;
+SFD = select * from dual;
+sfdc = select rownum from dual connect by 1=1 and level < 10;
+ii = insert into
+df = delete from
+us = update t set x where y
+td = to_date('01.01.0001', 'dd.mm.yyyy')
+TD = to_date('01.01.0001', 'dd.mm.yyyy')
